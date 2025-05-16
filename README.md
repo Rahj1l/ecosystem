@@ -11,6 +11,7 @@ First, install Ursina:
 
 ```bash
 pip install ursina
+```
 
 Then make sure these files are in the same directory as the script:
 
@@ -25,11 +26,9 @@ male_color.jpg
 Preditor.obj (I know, spelling — I'll fix that later)
 
 Now just run:
-
-bash
-Copy
-Edit
+```
 python your_script_name.py
+
 Controls
 W — Move predator forward
 
