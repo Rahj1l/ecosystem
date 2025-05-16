@@ -28,7 +28,7 @@ Preditor.obj (I know, spelling — I'll fix that later)
 Now just run:
 ```
 python your_script_name.py
-
+```
 Controls
 W — Move predator forward
 
